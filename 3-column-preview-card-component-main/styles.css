@@ -82,7 +82,7 @@ button{
     border-radius: 22px 22px 22px 22px;
     position: relative;
     left: 15%;
-    top: 38%;
+    margin-top: 60%;
     font-family: 'Lexend Deca', sans-serif;
     border-color: 1px hsl(0, 0%, 95%);
 }
