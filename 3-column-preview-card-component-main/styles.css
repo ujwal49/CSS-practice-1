@@ -25,7 +25,7 @@ body{
 .sedans{
     background-color:hsl(31, 77%, 52%);
     height: 65vh;
-    width: 40vh;
+    width: 42vh;
     border-bottom-left-radius: 8px;
     border-top-left-radius: 8px;
 }
@@ -44,7 +44,7 @@ body{
 .suvs{
     background-color: hsl(184, 100%, 22%);
     height: 65vh;
-    width: 40vh;
+    width: 42vh;
 }
 
 #suv-button{
@@ -61,7 +61,7 @@ body{
 .luxury{
     background-color:hsl(179, 100%, 13%);
     height: 65vh;
-    width: 40vh;
+    width: 42vh;
     border-bottom-right-radius: 8px;
     border-top-right-radius: 8px;
 }
